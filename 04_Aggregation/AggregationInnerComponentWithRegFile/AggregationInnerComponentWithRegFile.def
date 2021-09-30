@@ -1,0 +1,4 @@
+LIBRARY AggregationInnerComponentWithRegFile
+EXPORTS
+	DllGetClassObject	PRIVATE
+	DllCanUnloadNow		PRIVATE
