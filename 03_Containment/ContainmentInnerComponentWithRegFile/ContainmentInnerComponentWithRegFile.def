@@ -1,0 +1,4 @@
+LIBRARY ContainmentInnerComponentWithRegFile
+EXPORTS
+	DllGetClassObject	PRIVATE
+	DllCanUnloadNow		PRIVATE
